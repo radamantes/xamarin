@@ -1,0 +1,13 @@
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\bin\Debug\netstandard2.0\ImageCircle.deps.json
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\bin\Debug\netstandard2.0\ImageCircle.dll
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.AssemblyInfo.cs
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\bin\Debug\netstandard2.0\ImageCircle.pdb
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.dll
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageCircle.pdb
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\PaginaImageCircle.xaml.g.cs
+C:\Users\Diego Brito\source\ImageCircle\ImageCircle\ImageCircle\obj\Debug\netstandard2.0\ImageClicavel.xaml.g.cs

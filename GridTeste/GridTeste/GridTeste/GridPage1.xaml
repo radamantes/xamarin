@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GridTeste.GridPage1">
+    <ContentPage.Content>
+        <!--Grid con 2 lineas y 2 columnas-->
+        <Grid BackgroundColor="Bisque">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Label Text="Texto 1" BackgroundColor="Aquamarine" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Texto 2" BackgroundColor="AliceBlue" Grid.Row="0" Grid.Column="1"/>
+            <Label Text="Texto 3" BackgroundColor="AntiqueWhite" Grid.Row="1" Grid.Column="0"/>
+            <Label Text="Texto 4" BackgroundColor="Aqua" Grid.Row="1" Grid.Column="1"/>
+
+            <!--<Label Text="Column Span" BackgroundColor="Red" Grid.Row="2" Grid.ColumnSpan="3"/>
+            <Label Text="RowSpan" Grid.Column="2" Grid.RowSpan="3" BackgroundColor="Black"/>-->
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

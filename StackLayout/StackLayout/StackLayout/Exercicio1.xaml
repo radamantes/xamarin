@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayout.Exercicio1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Torta de Maçã"
+                HorizontalOptions="Start"
+                Margin="20,10,0,0"
+                   />
+
+            <Image Source="https://t2.rg.ltmcdn.com/pt/images/6/1/4/img_torta_de_maca_do_mcdonalds_2416_600.jpg"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Like" HorizontalOptions="Start" />
+                <Button Text="Comentar" HorizontalOptions="Center" />
+                <Button Text="Compartilhar" HorizontalOptions="End" />
+            </StackLayout>
+            <Label Text="250 Likes" FontAttributes="Bold" Margin="20,10,20,0"/>
+
+            <Label Text="Uma torta de maçã, no Brasil, ou tarte de maçã, em Portugal, é um doce cozido no forno recheada de maçãs.
+
+Na região Sul do Brasil, existe a cuca, de origem alemã, também com recheio de maçãs, mas também com outras frutas tal como goiaba, figo, pêssego e outras frutas ou mistura dessas.
+
+É um doce comum na culinária dos Estados Unidos, assim como em outros países." Margin="20,10,20,0"/>
+
+
+        </StackLayout>
+        
+    
+    </ContentPage.Content>
+ 
+</ContentPage>

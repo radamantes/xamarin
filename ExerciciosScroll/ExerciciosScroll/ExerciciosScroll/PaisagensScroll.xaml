@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExerciciosScroll.PaisagensScroll">
+
+    <!--<ScrollView>
+        <StackLayout>
+            <Image Source="http://www.macoratti.net/Imagens/cidades/cidade1.jpg" WidthRequest="250" HeightRequest="250" Aspect="AspectFill"/>
+            <Image Source="http://www.macoratti.net/Imagens/cidades/cidade2.jpg" WidthRequest="250" HeightRequest="250" Aspect="AspectFill"/>
+            <Image Source="http://www.macoratti.net/Imagens/cidades/cidade3.jpg" WidthRequest="250" HeightRequest="250" Aspect="AspectFill"/>
+            <Image Source="http://www.macoratti.net/Imagens/cidades/cidade4.jpg" WidthRequest="250" HeightRequest="250" Aspect="AspectFill"/>
+        </StackLayout>
+    </ScrollView>-->
+
+</ContentPage>

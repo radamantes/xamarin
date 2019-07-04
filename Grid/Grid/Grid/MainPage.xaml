@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Grid"
+             x:Class="Grid.MainPage">
+
+    <Grid RowSpacing="10" ColumnSpacing="10" Padding="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.ColumnSpan="3" Text="1 2 3 4" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center" FontSize="50"></Label>
+
+        <Button BorderRadius="30" Grid.Row="1" Grid.Column="0" Text="1" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="1" Grid.Column="1" Text="2" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="1" Grid.Column="2" Text="3" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+
+        <Button BorderRadius="30" Grid.Row="2" Grid.Column="0" Text="4" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="2" Grid.Column="1" Text="5" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="2" Grid.Column="2" Text="6" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+
+        <Button BorderRadius="30" Grid.Row="3" Grid.Column="0" Text="7" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="3" Grid.Column="1" Text="8" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+        <Button BorderRadius="30" Grid.Row="3" Grid.Column="2" Text="9" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+
+        <Button BorderRadius="30" Grid.Row="4" Grid.Column="1" Text="0" FontSize="30" TextColor="Black" BackgroundColor="Silver" />
+
+        <Button BorderRadius="30" Grid.Row="5" Grid.ColumnSpan="3" Text="Discar" FontSize="30" TextColor="Black" BackgroundColor="Lime" />
+    </Grid>
+
+    <!--O QUE EU FIZ-->
+    <!--<Grid Padding="30" RowSpacing="10" ColumnSpacing="10" Margin="30,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Text="1 2 3 4" Grid.Row="0" Grid.ColumnSpan="3" FontSize="40" TextColor="black" Margin="70,0,0,0"/>
+        <Button Text="1" Grid.Row="1" Grid.Column="0" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="2" Grid.Row="1" Grid.Column="1" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="3" Grid.Row="1" Grid.Column="2" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="4" Grid.Row="2" Grid.Column="0" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="5" Grid.Row="2" Grid.Column="1" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="6" Grid.Row="2" Grid.Column="2" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="7" Grid.Row="3" Grid.Column="0" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="8" Grid.Row="3" Grid.Column="1" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="9" Grid.Row="3" Grid.Column="2" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="0" Grid.Row="4" Grid.Column="1" BackgroundColor="Silver" FontSize="50"/>
+        <Button Text="Discar" Grid.Row="5" Grid.ColumnSpan="3" FontSize="40" BackgroundColor="Lime"/>
+    </Grid>-->
+
+</ContentPage>

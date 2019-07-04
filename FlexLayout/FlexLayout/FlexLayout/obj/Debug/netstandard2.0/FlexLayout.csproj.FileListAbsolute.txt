@@ -1,0 +1,12 @@
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.deps.json
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.dll
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\bin\Debug\netstandard2.0\FlexLayout.pdb
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.AssemblyInfo.cs
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.dll
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.pdb
+C:\Users\Diego Brito\source\FlexLayout\FlexLayout\FlexLayout\obj\Debug\netstandard2.0\FlexLayout.csprojAssemblyReference.cache

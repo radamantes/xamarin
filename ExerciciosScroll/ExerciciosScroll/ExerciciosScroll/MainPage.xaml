@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ExerciciosScroll"
+             x:Class="ExerciciosScroll.MainPage">
+
+    <!--<ScrollView>
+        <StackLayout Padding="20">
+            <Button Text="1" BackgroundColor="Yellow"/>
+            <Button Text="2" BackgroundColor="Yellow"/>
+            <Button Text="3" BackgroundColor="Yellow"/>
+            <Button Text="4" BackgroundColor="Yellow"/>
+            <Button Text="5" BackgroundColor="Yellow"/>
+            <Button Text="6" BackgroundColor="Yellow"/>
+            <Button Text="7" BackgroundColor="Yellow"/>
+            <Button Text="8" BackgroundColor="Yellow"/>
+            <Button Text="9" BackgroundColor="Yellow"/>
+            <Button Text="10" BackgroundColor="Yellow"/>
+            <Button Text="11" BackgroundColor="Yellow"/>
+            <Button Text="12" BackgroundColor="Yellow"/>
+            <Button Text="13" BackgroundColor="Yellow"/>
+            <Button Text="14" BackgroundColor="Yellow"/>
+            <Button Text="15" BackgroundColor="Yellow"/>
+            <Button Text="16" BackgroundColor="Yellow"/>
+            <Button Text="17" BackgroundColor="Yellow"/>
+            <Button Text="18" BackgroundColor="Yellow"/>
+            <Button Text="19" BackgroundColor="Yellow"/>
+            <Button Text="20" BackgroundColor="Yellow"/>
+            <Button Text="21" BackgroundColor="Yellow"/>
+            <Button Text="22" BackgroundColor="Yellow"/>
+            <Button Text="23" BackgroundColor="Yellow"/>
+            <Button Text="24" BackgroundColor="Yellow"/>
+            <Button Text="25" BackgroundColor="Yellow"/>
+        </StackLayout>
+    </ScrollView>-->
+</ContentPage>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ExerciciosStackLayout"
+             x:Class="ExerciciosStackLayout.MainPage">
+
+    <StackLayout>
+        <Label Text="Torta de Maçã"/>
+
+        <Image Source="http://macoratti.net/Imagens/Receitas/tortamaca.jpg" WidthRequest="250" HeightRequest="250"/>
+        <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+            <Button Text="Like" HorizontalOptions="Start" Padding="15,0,15,0"/>
+            <Button Text="Comentar" HorizontalOptions="Center" Margin="9,0,9,0" Padding="20,0,20,0"/>
+            <Button Text="Compartilhar" HorizontalOptions="End" Padding="15,0,15,0"/>
+        </StackLayout>
+        
+        <Label Text="250 Likes" Margin="25,15,0,0"/>
+
+        <Editor Text="Descasque as maças, retire as sementes e corte-as em fatias não muito finas. Passe as fatias no açúcas cristal misturado com a canela em pó.Reserve. Unte uma forma refratária com manteiga e forre o fundo com uma camada de fatias de maçã."/>
+
+
+
+    </StackLayout>
+
+</ContentPage>

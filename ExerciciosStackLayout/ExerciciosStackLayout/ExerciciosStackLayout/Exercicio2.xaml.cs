@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace ExerciciosStackLayout
+{
+	[XamlCompilation(XamlCompilationOptions.Compile)]
+	public partial class Exercicio2 : ContentPage
+	{
+		public Exercicio2 ()
+		{
+			InitializeComponent ();
+		}
+	}
+}

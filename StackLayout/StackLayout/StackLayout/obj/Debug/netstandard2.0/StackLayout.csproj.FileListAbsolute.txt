@@ -1,0 +1,16 @@
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.deps.json
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.dll
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.pdb
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\Exercicio1.xaml.g.cs
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfo.cs
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.dll
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.pdb
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\torta-maca.JPG
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\Exercicio2.xaml.g.cs
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\Exercicio3.xaml.g.cs
+C:\Users\Diego Brito\source\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\Exercicio4.xaml.g.cs

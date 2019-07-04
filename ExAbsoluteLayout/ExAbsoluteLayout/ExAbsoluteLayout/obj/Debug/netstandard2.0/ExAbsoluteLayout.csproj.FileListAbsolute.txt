@@ -1,0 +1,12 @@
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\bin\Debug\netstandard2.0\ExAbsoluteLayout.deps.json
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\bin\Debug\netstandard2.0\ExAbsoluteLayout.dll
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\bin\Debug\netstandard2.0\ExAbsoluteLayout.pdb
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.AssemblyInfo.cs
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.dll
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\ExAbsoluteLayout.pdb
+C:\Users\Diego Brito\source\ExAbsoluteLayout\ExAbsoluteLayout\ExAbsoluteLayout\obj\Debug\netstandard2.0\Exercicio1.xaml.g.cs

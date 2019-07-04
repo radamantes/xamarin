@@ -1,0 +1,12 @@
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\bin\Debug\netstandard2.0\Eventos.deps.json
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\bin\Debug\netstandard2.0\Eventos.dll
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\bin\Debug\netstandard2.0\Eventos.pdb
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.AssemblyInfo.cs
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.dll
+C:\Users\Diego Brito\source\Eventos\Eventos\Eventos\obj\Debug\netstandard2.0\Eventos.pdb

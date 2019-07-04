@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExerciciosRelative.Exercicio2">
+    <RelativeLayout >
+        <Image Source="https://cdn.pixabay.com/photo/2016/11/29/13/04/forest-1869713_960_720.jpg" Aspect="Fill" x:Name="nat1"  />
+        <Image Source="http://www.macoratti.net/Imagens /animais/pato.jpg" Aspect="AspectFit" HeightRequest="75" WidthRequest="75"  
+               RelativeLayout.XConstraint="{ConstraintExpression
+            Type=RelativeToParent,
+            Property=Width,
+            Factor=0.2
+            }"
+               RelativeLayout.YConstraint="{ConstraintExpression
+            Type=RelativeToParent,
+            Property=Height,
+            Factor=0.255
+            }"
+               
+               />
+
+    </RelativeLayout>
+</ContentPage>

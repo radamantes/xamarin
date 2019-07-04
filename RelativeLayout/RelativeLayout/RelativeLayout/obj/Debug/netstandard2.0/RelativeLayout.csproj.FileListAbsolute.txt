@@ -1,0 +1,12 @@
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\bin\Debug\netstandard2.0\RelativeLayout.deps.json
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\bin\Debug\netstandard2.0\RelativeLayout.dll
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\bin\Debug\netstandard2.0\RelativeLayout.pdb
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayoutPage.xaml.g.cs
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.AssemblyInfo.cs
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.dll
+C:\Users\Diego Brito\source\RelativeLayout\RelativeLayout\RelativeLayout\obj\Debug\netstandard2.0\RelativeLayout.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayout.Exercicio3">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Purple" VerticalOptions="FillAndExpand">
+            <Label Text="Cadastro de Clientes" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,150,0,0"
+             
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   TextColor="White"/>
+            <Label Text="Exercício Xamarin Forms" HorizontalOptions="Center"
+                   TextColor="White"          
+                   />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Login" BackgroundColor="BlueViolet" HorizontalOptions="Center"/>
+                <Button Text="Registro" BackgroundColor="BlueViolet" HorizontalOptions="Center" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

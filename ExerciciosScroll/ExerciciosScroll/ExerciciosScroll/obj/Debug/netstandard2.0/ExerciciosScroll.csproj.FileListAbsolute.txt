@@ -1,0 +1,22 @@
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\bin\Debug\netstandard2.0\ExerciciosScroll.deps.json
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\bin\Debug\netstandard2.0\ExerciciosScroll.dll
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\bin\Debug\netstandard2.0\ExerciciosScroll.pdb
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.AssemblyInfo.cs
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.dll
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.pdb
+C:\Users\Diego Brito\source\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\PaisagensScroll.xaml.g.cs
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\bin\Debug\netstandard2.0\ExerciciosScroll.deps.json
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\bin\Debug\netstandard2.0\ExerciciosScroll.dll
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.csprojAssemblyReference.cache
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\PaisagensScroll.xaml.g.cs
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.csproj.CoreCompileInputs.cache
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.AssemblyInfoInputs.cache
+D:\Exercicios VIsual Studio\ExerciciosScroll\ExerciciosScroll\ExerciciosScroll\obj\Debug\netstandard2.0\ExerciciosScroll.AssemblyInfo.cs

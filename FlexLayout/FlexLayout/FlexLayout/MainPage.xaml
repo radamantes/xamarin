@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FlexLayout"
+             x:Class="FlexLayout.MainPage">
+
+
+
+    <AbsoluteLayout>
+        <BoxView Color="Aqua"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 0.3" AbsoluteLayout.LayoutFlags="All" />
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center"
+				AbsoluteLayout.LayoutBounds="0, 0, 1, 0.3" AbsoluteLayout.LayoutFlags="All">
+            <Label Text="R$ 22,50" TextColor="Black" FontSize="50" FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+            <Button Text="Encerrar" HeightRequest="50" BorderRadius="15" FontSize="18" 
+                    FontAttributes="Bold" BackgroundColor="#cd772a" TextColor="White" />
+        </StackLayout>
+
+        <StackLayout Padding="40, 0" Spacing="20"
+				AbsoluteLayout.LayoutBounds="0, 0.5, 1, 0.3" AbsoluteLayout.LayoutFlags="All">
+            <Label Text="Deseja Finalizar Compras ?" HorizontalOptions="Center" FontAttributes="Bold" FontSize="17" />
+            <Label HorizontalOptions="Center" HorizontalTextAlignment="Center" FontSize="15" 
+                Text="Você pode finalizar agora suas compras ou pode continuar aproveitando as nossas facilidades de pagemento" />
+        </StackLayout>
+
+    </AbsoluteLayout>
+
+
+    <!--<StackLayout Spacing="10" x:Name="layout">
+        
+        <Button Text="StackLayout" VerticalOptions="Start"
+        HorizontalOptions="FillAndExpand" />
+        
+        <BoxView Color="Yellow" VerticalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand" />
+        <BoxView Color="Green" VerticalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand" />
+        
+        <BoxView HeightRequest="75" Color="Blue" VerticalOptions="End"
+        HorizontalOptions="FillAndExpand" />
+    </StackLayout>-->
+
+    <!--<FlexLayout Direction="Column" BackgroundColor="Aqua">-->
+
+    <!--<StackLayout>
+        
+        <Label HorizontalTextAlignment="Center" TextColor="Black" FontSize="50" BackgroundColor="Aqua">R$ 25,00</Label>
+
+        <Button Text="Encerrar" FlexLayout.AlignSelf="Center" BackgroundColor="#cd772a" HeightRequest="50" FontSize="18" FontAttributes="Bold"/>
+
+
+        <Label>Deseja finalizar compras?</Label>
+
+
+    </StackLayout>-->
+
+
+
+
+
+    <!--</FlexLayout>-->
+
+</ContentPage>

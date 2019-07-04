@@ -1,0 +1,12 @@
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\bin\Debug\netstandard2.0\GridTeste.deps.json
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\bin\Debug\netstandard2.0\GridTeste.dll
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\bin\Debug\netstandard2.0\GridTeste.pdb
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.csprojAssemblyReference.cache
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridPage1.xaml.g.cs
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.csproj.CoreCompileInputs.cache
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.AssemblyInfoInputs.cache
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.AssemblyInfo.cs
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.dll
+C:\Users\Diego Brito\source\GridTeste\GridTeste\GridTeste\obj\Debug\netstandard2.0\GridTeste.pdb
