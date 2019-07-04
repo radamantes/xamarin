@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XM_Images.ListViewCell"
+             BackgroundColor="Navy"
+             >
+
+    <ListView x:Name="lView" SeparatorColor="White" HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" BackgroundColor="Green" Padding="4">
+                        <Image Source="{Binding ImagemUrl}"/>
+                        <StackLayout HorizontalOptions="StartAndExpand">
+                            <Label Text="{Binding Pontos}" TextColor="Yellow"/>
+                            <Label Text="{Binding Nome}" TextColor="Silver"/>
+                        </StackLayout>
+                        <Button Text="Selecionar"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        
+        
+    </ListView>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\bin\Debug\netstandard2.0\XM_Images.deps.json
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\bin\Debug\netstandard2.0\XM_Images.dll
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\bin\Debug\netstandard2.0\XM_Images.pdb
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.csprojAssemblyReference.cache
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\ListView.xaml.g.cs
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\ListViewPageCode.xaml.g.cs
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\ListViewTimes.xaml.g.cs
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.csproj.CoreCompileInputs.cache
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.AssemblyInfoInputs.cache
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.AssemblyInfo.cs
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.dll
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\XM_Images.pdb
+C:\Exercicios-Visual\XM_Images\XM_Images\XM_Images\obj\Debug\netstandard2.0\ListViewCell.xaml.g.cs

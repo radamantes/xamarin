@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XM_Images.ListViewTimes"
+             BackgroundColor="Black"
+             >
+
+
+
+    <ListView x:Name="lView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ImageCell ImageSource="{Binding ImagemUrl}" 
+                    Text="{Binding Nome}"
+                    Detail = "{Binding Pontos}"
+                               TextColor="Yellow"
+                               DetailColor="Silver"
+                               
+                               />
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+
+
+    <!--<ListView  x:Name="lView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout BackgroundColor="#eee"
+                        Orientation="Vertical">
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding ImagemUrl}" />
+                        </StackLayout>
+                        <StackLayout>
+                            <Label Text="{Binding Nome}"
+                                TextColor="#f35e20" />
+                        </StackLayout>
+                        <StackLayout>
+                            <Label Text="{Binding Pontos}"
+                                HorizontalOptions="Start"
+                                TextColor="#503026"
+                              />
+                        </StackLayout>
+
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>-->
+
+
+</ContentPage>
